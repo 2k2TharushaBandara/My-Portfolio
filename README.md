@@ -1,2 +1,2 @@
 # My-Portfolio
- A ststic portfolio website created by me
+ A static portfolio website created by me
